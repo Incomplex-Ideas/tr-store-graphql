@@ -1,0 +1,8 @@
+{
+    "app_id": "tr-store-graphql-ghbgs",
+    "config_version": 20210101,
+    "name": "tr-store-graphql",
+    "location": "SG",
+    "provider_region": "aws-ap-southeast-1",
+    "deployment_model": "LOCAL"
+}
